@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "io.stockgeeks"
+    },
+    "jhipsterVersion": "6.7.0",
+    "applicationType": "gateway",
+    "baseName": "CustomJhipster",
+    "packageName": "io.stockgeeks",
+    "packageFolder": "io/stockgeeks",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDAwZmE3YzYxNzJjZTRhZDdmNTZhYTI0ZDFjMWE3N2IwZWM5MmYzMDY2OGU3ODY4MDZmY2I1MTgzZjJjMWJjZTJiYzJlYjk2ZTgwNDczOWNkN2E5YTU1YjVmNTVlNWQzNzNiMWQwNjhiZDQ3ZDVhMjY4ZGM5YjBhY2MyYzJjNjA=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1581165045044,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
